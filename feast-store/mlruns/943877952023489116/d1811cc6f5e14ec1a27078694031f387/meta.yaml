@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/943877952023489116/d1811cc6f5e14ec1a27078694031f387/artifacts
+end_time: 1752860135478
+entry_point_name: ''
+experiment_id: '943877952023489116'
+lifecycle_stage: active
+run_id: d1811cc6f5e14ec1a27078694031f387
+run_name: resilient-slug-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860132327
+status: 3
+tags: []
+user_id: jupyter
