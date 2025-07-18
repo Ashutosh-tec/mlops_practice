@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/943877952023489116/e3569214eb034b5e88ffc44363a0e882/artifacts
+end_time: 1752860138385
+entry_point_name: ''
+experiment_id: '943877952023489116'
+lifecycle_stage: active
+run_id: e3569214eb034b5e88ffc44363a0e882
+run_name: lyrical-penguin-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860135514
+status: 3
+tags: []
+user_id: jupyter

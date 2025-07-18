@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/943877952023489116/77d0ee7b5c0a4415bb93cfb1c8b9f009/artifacts
+end_time: 1752860132288
+entry_point_name: ''
+experiment_id: '943877952023489116'
+lifecycle_stage: active
+run_id: 77d0ee7b5c0a4415bb93cfb1c8b9f009
+run_name: thundering-hound-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860129310
+status: 3
+tags: []
+user_id: jupyter

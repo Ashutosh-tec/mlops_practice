@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/943877952023489116/36712c85d58e418e8236ab664bf77f4a/artifacts
+end_time: 1752860126355
+entry_point_name: ''
+experiment_id: '943877952023489116'
+lifecycle_stage: active
+run_id: 36712c85d58e418e8236ab664bf77f4a
+run_name: funny-shrew-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860123494
+status: 3
+tags: []
+user_id: jupyter
